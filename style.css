@@ -18,17 +18,14 @@ div {
   text-align: center;
 }
 
-.float1 {
-  width: 495px;
-  float: left;
-}
-
 #section {
+  width: 495px;
 }
 
 #article {
   background-color: #777;
   color: #ebebeb;
+  margin: 20px 10px 0px 10px;
 }
 
 #headers {
