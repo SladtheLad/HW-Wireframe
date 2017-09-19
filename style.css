@@ -1,9 +1,34 @@
-.background {
+body {
   background-color: #777;
-
+  color: #777;
+  font-size: 18px;
 }
 
-.content {
+div {
+  margin: 20px;
+  padding: 100px;
   background-color: #ebebeb;
+  width: 960px;
+  text-align: center;
+}
 
+.section {
+  width: 495px;
+  height: 400px;
+}
+
+.article {
+  background-color: #777;
+  color: #ebebeb;
+}
+
+.headers {
+  color: #777;
+}
+
+.p {
+}
+
+.aside {
+  float: right;
 }
