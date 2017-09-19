@@ -1,3 +1,8 @@
+
+* {
+  box-sizing: border-box;
+}
+
 body {
   background-color: #777;
   color: #777;
@@ -5,39 +10,31 @@ body {
 }
 
 div {
-  padding: 20px 0 20px 0;
-  margin: 20px auto 20px auto;
+  display: block;
+  padding: 40px 0 40px 0;
+  margin: 10px 100px 10px 100px;
   background-color: #ebebeb;
   width: 960px;
   text-align: center;
 }
 
-.header {
-  position: relative;
-}
-.section {
+.float1 {
   width: 495px;
-  height: 250px;
+  float: left;
 }
 
-.article {
+#section {
+}
+
+#article {
   background-color: #777;
   color: #ebebeb;
-  width: 495px;
-  height: 200px;
-  margin: 5px;
 }
 
-.headers {
+#headers {
   color: #777;
-  width: 495px;
 }
 
-.p {
+#aside {
   width: 495px;
-}
-
-.aside {
-  width: 495px;
-  height: 100px;
 }
