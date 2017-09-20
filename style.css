@@ -1,0 +1,49 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #777;
+  color: #777;
+  font-size: 18px;
+}
+
+div {
+  display: block;
+  padding: 40px 0 40px 0;
+  margin: 10px 100px 10px 100px;
+  background-color: #ebebeb;
+  width: 960px;
+  text-align: center;
+}
+
+header {
+
+}
+
+nav {
+
+}
+
+section {
+  width: 495px;
+}
+
+article {
+  background-color: #777;
+  color: #ebebeb;
+  margin: 20px 10px 0px 10px;
+}
+
+h1 {
+  color: #777;
+}
+
+aside {
+  width: 495px;
+}
+
+footer {
+
+}
