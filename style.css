@@ -18,20 +18,32 @@ div {
   text-align: center;
 }
 
-#section {
+header {
+
+}
+
+nav {
+
+}
+
+section {
   width: 495px;
 }
 
-#article {
+article {
   background-color: #777;
   color: #ebebeb;
   margin: 20px 10px 0px 10px;
 }
 
-#headers {
+h1 {
   color: #777;
 }
 
-#aside {
+aside {
   width: 495px;
+}
+
+footer {
+
 }
